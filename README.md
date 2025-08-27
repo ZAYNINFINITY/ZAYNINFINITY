@@ -10,8 +10,8 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Web Dev: HTML, CSS, JS, C++, React, Node.js
-- 🌱 Learning: MERN Stack, UI/UX, Startup Innovation
+- 👨‍💻 Web Dev: **HTML, CSS, JavaScript, C++**, React, Node.js
+- 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**, UI/UX, Startup Innovation
 - 🤝 Open to internships, collaborations, and cool projects
 - 🧑‍🎓 Computer Science student at **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology**
 - 💡 Entrepreneur, tech explorer, and lifelong learner
