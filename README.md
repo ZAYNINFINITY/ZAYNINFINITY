@@ -1,20 +1,19 @@
-<!-- Animated header (can be static if preferred) -->
+<!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Zain Ul Abideen</h1>
-<h3 align="center">Computer Science Student | Entrepreneur | MERN & Front-End Dev | Exploring Tech & Startups</h3>
+<h3 align="center">Computer Science Student | MERN & Front-End Dev | Startup Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=35C7F7&center=true&vCenter=true&width=435&lines=Web+Developer;Startup+Enthusiast;Open+to+Opportunities;Learning+MERN+Stack;Let's+Connect!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=35C7F7&center=true&vCenter=true&width=500&lines=Web+Developer;Startup+Enthusiast;MERN+Stack+Learner;C%2B%2B+%26+JavaScript;Let's+Connect!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Web Dev: **HTML, CSS, JavaScript, C++**, React, Node.js
-- 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**, UI/UX, Startup Innovation
-- 🤝 Open to internships, collaborations, and cool projects
-- 🧑‍🎓 Computer Science student at **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology**
-- 💡 Entrepreneur, tech explorer, and lifelong learner
+- 👨‍💻 Skilled in: **HTML, CSS, JavaScript, C++**, React, Node.js  
+- 🌱 Currently learning: **MERN Stack, UI/UX, Startup Innovation**  
+- 🎓 CS student at **Pak-Austria Fachhochschule Institute of Applied Sciences & Technology**  
+- 💡 Entrepreneurial mindset, always exploring new ideas & tech  
 
 ---
 
@@ -25,9 +24,11 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
@@ -43,41 +44,34 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAYNINFINITY&show_icons=true&theme=radical&count_private=true" alt="ZAYNINFINITY's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=ZAYNINFINITY&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAYNINFINITY&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZAYNINFINITY&show_icons=true&theme=radical&count_private=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ZAYNINFINITY&theme=radical" height="160" />
 </p>
 
----
-
-## 📚 Currently Learning
-
-- MERN Stack (MongoDB, Express, React, Node.js)
-- UI/UX Design
-- Startup Innovation & Product Management
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAYNINFINITY&layout=compact&theme=radical" height="160" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
-- [Hangman Game](https://github.com/ZAYNINFINITY/Hangman)
-- [Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker-)
+- [🎮 Hangman Game](https://github.com/ZAYNINFINITY/Hangman) — Classic word guessing game in **C++**  
+- [💰 Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker-) — Simple app to manage expenses & savings  
 
 ---
 
 ## ⚡ Fun Facts
 
-- 💬 I love meeting new people and learning about new ideas.
-- 🏸 Badminton is my favorite sport.
-- 🎬 I enjoy movies and documentaries about innovation.
-- 🧩 Always up for a puzzle or coding challenge.
+- 🏸 Love playing badminton  
+- 🎬 Enjoy movies & documentaries about innovation  
+- 🧩 Always up for coding challenges & puzzles  
 
 ---
 
 <p align="center">
-  <b>Let's connect, collaborate, and innovate together!</b>
+  <b>🚀 Let's connect, collaborate, and innovate together!</b>
 </p>
