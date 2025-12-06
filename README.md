@@ -1,45 +1,41 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Zain Ul Abideen</h1>
-<h3 align="center">Computer Science Student | MERN & Front-End Dev | Startup Explorer</h3>
+# 🌑 Zain Ul Abideen — Mern Stack Dev
+
+### MERN & Front-End Dev • CS Student • Startup Explorer  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=35C7F7&center=true&vCenter=true&width=500&lines=Web+Developer;Startup+Enthusiast;MERN+Stack+Learner;C%2B%2B+%26+JavaScript;Let's+Connect!" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/09/13/82/09138251ca37378ad3ac4fc9f708924f.gif" width="400" alt="Itachi Red-Black Animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Focused+on+skills+and+projects;Building+real-world+applications;Professional+with+anime+style" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-- 👨‍💻 Skilled in: **HTML, CSS, JavaScript, C++**, React, Node.js  
-- 🌱 Currently learning: **MERN Stack, UI/UX, Startup Innovation**  
-- 🎓 CS student at **Pak-Austria Fachhochschule Institute of Applied Sciences & Technology**  
-- 💡 Entrepreneurial mindset, always exploring new ideas & tech  
+- Skilled in **HTML, CSS, JavaScript, C++**, React, Node.js  
+- Learning **MERN Stack, UI/UX, and Startup Innovation**  
+- CS Student at **PAF-IAST**  
+- Passionate about **building projects, solving problems, and continuous learning**  
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" />
-</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:zaynbu269@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/zain-ul-abideen-429735231"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFDE00?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=FF0000"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FF0000"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-B40404?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0F0F0F?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000"/>
 </p>
 
 ---
@@ -47,31 +43,44 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZAYNINFINITY&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ZAYNINFINITY&theme=radical" height="160" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZAYNINFINITY&show_icons=true&theme=dark&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ZAYNINFINITY&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAYNINFINITY&layout=compact&theme=radical" height="160" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAYNINFINITY&layout=compact&theme=dark" />
 </p>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-- [🎮 Hangman Game](https://github.com/ZAYNINFINITY/Hangman) — Classic word guessing game in **C++**  
-- [💰 Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker-) — Simple app to manage expenses & savings  
+- **[Hangman Game](https://github.com/ZAYNINFINITY/Hangman)** — Classic word guessing game in **C++**  
+- **[Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker-)** — Personal finance manager  
 
 ---
 
-## ⚡ Fun Facts
+## 🌟 Fun Facts
 
-- 🏸 Love playing badminton  
-- 🎬 Enjoy movies & documentaries about innovation  
-- 🧩 Always up for coding challenges & puzzles  
+- Energetic, disciplined, and focused  
+- Enjoys coding challenges, problem-solving, and building projects  
+- Keeps a **creative and professional approach** while adding subtle anime flair  
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:zaynbu269@gmail.com"><img src="https://img.shields.io/badge/Email-B10000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zain-ul-abideen-429735231"><img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin&logoColor=FF0000"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <b>🚀 Let's connect, collaborate, and innovate together!</b>
+  <img src="https://i.pinimg.com/originals/80/75/5e/80755e98c41cfac501602aa1fc5a56b3.gif" width="400" alt="Itachi Closing Animation" />
+</p>
+
+<p align="center">
+  <b>“Focus, strategy, and discipline are the keys to mastering any skill.”</b>
 </p>
