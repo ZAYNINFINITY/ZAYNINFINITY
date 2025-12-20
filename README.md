@@ -83,6 +83,3 @@
 <p align="center">
   <b>“Focus, strategy, and discipline are the keys to mastering any skill.”</b>
 </p>
-
----
-
