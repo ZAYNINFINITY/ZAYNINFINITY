@@ -14,9 +14,9 @@
 
 ## 💻 About Me
 
-- Skilled in **HTML, CSS, JavaScript, C++**, React, Node.js
-- Learning **MERN Stack, UI/UX, and Startup Innovation**
-- CS Student at **PAF-IAST**
+- Skilled in **HTML, CSS, JavaScript, C++**, React, Node.js  
+- Learning **MERN Stack, UI/UX, and Startup Innovation**  
+- CS Student at **PAF-IAST**  
 - Passionate about **building projects, solving problems, and continuous learning**
 
 ---
@@ -24,17 +24,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FFDE00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=FF0000" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFDE00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=FF0000" alt="C++"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF0000" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FF0000" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FF0000" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF0000" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FF0000" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FF0000" alt="MongoDB"/>
   <br/>
-  <img src="https://img.shields.io/badge/Git-B40404?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-0F0F0F?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-B40404?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VSCode-0F0F0F?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000" alt="VSCode"/>
 </p>
 
 ---
@@ -54,15 +54,15 @@
 
 ## 🚀 Featured Projects
 
-- **[Hangman Game](https://github.com/ZAYNINFINITY/Hangman)** — Classic word-guessing game in **C++**
+- **[Hangman Game](https://github.com/ZAYNINFINITY/Hangman)** — Classic word-guessing game in **C++**  
 - **[Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker)** — Personal finance manager
 
 ---
 
 ## 🌟 Fun Facts
 
-- Energetic, disciplined, and focused
-- Enjoys coding challenges, problem-solving, and building projects
+- Energetic, disciplined, and focused  
+- Enjoys coding challenges, problem-solving, and building projects  
 - Keeps a **creative and professional approach** while adding subtle anime flair
 
 ---
@@ -86,11 +86,3 @@
 
 ---
 
-Notes:
-- I fixed the malformed project link for "Budget Tracker" (removed trailing "-").
-- The two GIFs are kept as external Pinterest links. If they become blocked or stop loading, the most reliable solution is to add them to this repo under an `assets/` folder and update the image paths. Example:
-
-  1) Create an `assets/` folder in this repository and add the GIF files (e.g., `assets/itachi-red-black.gif`, `assets/itachi-closing.gif`).
-  2) Replace the Pinterest URLs with `assets/itachi-red-black.gif` and `assets/itachi-closing.gif` respectively.
-
-- If you want, I can upload the GIF files to the repo for you (I will need permission to push binary files).
