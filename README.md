@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Focused+on+skills+and+projects;Building+real-world+applications;Professional+with+anime+style" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Focused+on+skills+and+projects;Building+real-world+applications;" />
 </p>
 
 ---
