@@ -41,20 +41,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=zayninfinity&show_icons=true&theme=dark&cache_seconds=180"
-       alt="GitHub stats">
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=zayninfinity&theme=dark&cache_seconds=180"
-       alt="GitHub streak">
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayninfinity&theme=github_dark" height="150" alt="GitHub Profile Stats" />
 </p>
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayninfinity&layout=compact&theme=dark&cache_seconds=180"
-       alt="Top languages">
+  <!-- Top Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayninfinity&theme=github_dark" height="150" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <!-- Always-working Shields.io Badges -->
+  <img src="https://img.shields.io/github/followers/zayninfinity?style=for-the-badge&logo=github&color=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zayninfinity?style=for-the-badge&logo=github&color=black" alt="Stars" />
+</p>
 
 
 ---
