@@ -38,16 +38,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZAYNINFINITY&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ZAYNINFINITY&theme=dark" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zayninfinity&show_icons=true&theme=dark" alt="GitHub stats">
+  <img height="170" src="https://streak-stats.demolab.com?user=zayninfinity&theme=dark" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAYNINFINITY&layout=compact&theme=dark" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayninfinity&layout=compact&theme=dark" alt="Top languages">
 </p>
 
 ---
