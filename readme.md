@@ -12,33 +12,33 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 <table>
   <tr>
+    <td valign="bottom" width="25%" align="left">
+      <img src="./kakashi_peek_transparent.png" width="130" alt="peeking kakashi"/>
+    </td>
     <td valign="top" width="75%">
 
-| Field | Details |
+| | |
 |:------|:--------|
 | **Name** | Zain Ul Abideen |
 | **Alias** | ZAYNINFINITY |
 | **University** | PAF-IAST |
 | **Role** | MERN Stack Developer & CS Student |
-| **Location** | Pakistan 🇵🇰 |
+| **Location** | Pakistan |
 | **Building** | Full-stack MERN applications |
 | **Learning** | DSA, problem-solving & startup thinking |
 | **Fun Fact** | The World Is Unpredictable — so I build things that adapt |
 
-  </td>
-  <td valign="bottom" width="25%" align="right">
-    <img src="./kakashi_peek_transparent.png" width="130" alt="peeking kakashi"/>
   </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
@@ -74,7 +74,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 - 🔨 Building: A full-stack MERN application
 - 📖 Learning: REST APIs, authentication, and deployment
@@ -98,7 +98,7 @@
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
