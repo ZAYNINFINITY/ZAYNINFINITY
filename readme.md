@@ -14,16 +14,27 @@
 
 ## 👤 About Me
 
-| | |
-|---|---|
-| 👤 **Name** | Zain Ul Abideen |
-| 🏷️ **Alias** | ZAYNINFINITY |
-| 🎓 **University** | PAF-IAST |
-| 💼 **Role** | MERN Stack Developer & CS Student |
-| 📍 **Location** | Pakistan 🇵🇰 |
-| 🔨 **Building** | Full-stack MERN applications |
-| 📖 **Learning** | DSA, problem-solving & startup thinking |
-| ⚡ **Fun Fact** | The World Is Unpredictable — so I build things that adapt |
+<table>
+  <tr>
+    <td valign="top" width="75%">
+
+| Field | Details |
+|:------|:--------|
+| **Name** | Zain Ul Abideen |
+| **Alias** | ZAYNINFINITY |
+| **University** | PAF-IAST |
+| **Role** | MERN Stack Developer & CS Student |
+| **Location** | Pakistan 🇵🇰 |
+| **Building** | Full-stack MERN applications |
+| **Learning** | DSA, problem-solving & startup thinking |
+| **Fun Fact** | The World Is Unpredictable — so I build things that adapt |
+
+  </td>
+  <td valign="bottom" width="25%" align="right">
+    <img src="./kakashi_peek_transparent.png" width="130" alt="peeking kakashi"/>
+  </td>
+  </tr>
+</table>
 
 ---
 
