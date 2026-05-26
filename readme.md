@@ -1,92 +1,118 @@
-# 🌑 Zain Ul Abideen — MERN Stack Developer
+<div align="center">
 
-### MERN & Front-End Dev • CS Student • Startup Explorer
+<!-- Animated header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abideen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/09/13/82/09138251ca37378ad3ac4fc9f708924f.gif" width="400" alt="Itachi Red-Black Animation" />
-</p>
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;CS+Student+%40+PAF-IAST+%F0%9F%8E%93;Building+Real-World+Applications+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Focused+on+skills+and+projects;Building+real-world+applications" alt="Typing SVG" />
-</p>
+</div>
 
 ---
 
-## 💻 About Me
+## 👤 About Me
 
-- Skilled in **HTML, CSS, JavaScript, C++**, React, Node.js  
-- Learning **MERN Stack, UI/UX, and Startup Innovation**  
-- CS Student at **PAF-IAST**  
-- Passionate about **building projects, solving problems, and continuous learning**
+| | |
+|---|---|
+| 👤 **Name** | Zain Ul Abideen |
+| 🏷️ **Alias** | ZAYNINFINITY |
+| 🎓 **University** | PAF-IAST |
+| 💼 **Role** | MERN Stack Developer & CS Student |
+| 📍 **Location** | Pakistan 🇵🇰 |
+| 🔨 **Building** | Full-stack MERN applications |
+| 📖 **Learning** | DSA, problem-solving & startup thinking |
+| ⚡ **Fun Fact** | The World Is Unpredictable — so I build things that adapt |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF0000" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFDE00?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=FF0000" alt="C++"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF0000" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FF0000" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FF0000" alt="MongoDB"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Git-B40404?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VSCode-0F0F0F?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000" alt="VSCode"/>
-</p>
+**Frontend**
 
----
-## 📊 GitHub Stats
+![HTML5](https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD000?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=FF0000)
 
-<p align="center">
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayninfinity&theme=github_dark" height="150" alt="GitHub Profile Stats" />
-</p>
+**Backend & Database**
 
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zayninfinity&theme=github_dark" height="150" alt="Top Languages" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-1B1B1B?style=for-the-badge&logo=node.js&logoColor=FF0000)
+![Express](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=FF0000)
 
-<p align="center">
-  <!-- Always-working Shields.io Badges -->
-  <img src="https://img.shields.io/github/followers/zayninfinity?style=for-the-badge&logo=github&color=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zayninfinity?style=for-the-badge&logo=github&color=black" alt="Stars" />
-</p>
+**Languages & Tools**
 
+![C++](https://img.shields.io/badge/C++-121212?style=for-the-badge&logo=cplusplus&logoColor=FF0000)
+![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git-B40404?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0F0F0F?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Hangman Game](https://github.com/ZAYNINFINITY/Hangman)** — Classic word-guessing game in **C++**  
-- **[Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker)** — Personal finance manager
+| Project | Description | Tech | Status |
+|--------|-------------|------|--------|
+| 🚗 [Car Auction Management System](https://github.com/ZAYNINFINITY/CARAUCTION-MANAGEMENT-SYSTEM) | Full auction platform with bidding, listings & user management | Python | ✅ Complete |
+| 📊 [DSA Queue Visualizer](https://github.com/ZAYNINFINITY/DSA-PROJ-V2) | Interactive visual implementation of queue data structures | HTML/JS | ✅ Complete |
+| 🤝 [Collaborative Workspace](https://github.com/ZAYNINFINITY/collaborative-workspace) | Real-time team collaboration tool | JavaScript | 🔄 In Progress |
+| 💰 [Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker) | Personal finance manager with tracking & insights | JavaScript | ✅ Complete |
+| 🎮 [Hangman Game](https://github.com/ZAYNINFINITY/Hangman) | Classic word-guessing game built in C++ | C++ | ✅ Complete |
 
 ---
 
-## 🌟 Fun Facts
+## 📊 GitHub Stats
 
-- Energetic, disciplined, and focused  
-- Enjoys coding challenges, problem-solving, and building projects  
-- Keeps a **creative and professional approach** while adding subtle anime flair
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zayninfinity&theme=github-dark-blue&hide_border=true&stroke=FF0000&ring=FF0000&fire=FF4500&currStreakLabel=FF0000" width="49%"/>
 
-## 📬 Contact
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zayninfinity&theme=github_dark" width="99%" style="margin-top: 8px;"/>
 
-<p align="center">
-  <a href="mailto:zaynbu269@gmail.com"><img src="https://img.shields.io/badge/Email-B10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/zain-ul-abideen-429735231"><img src="https://img.shields.io/badge/LinkedIn-2D2D2D?style=for-the-badge&logo=linkedin&logoColor=FF0000" alt="LinkedIn"/></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=zayninfinity&show_icons=true&theme=github_dark&hide_border=true&icon_color=FF0000&title_color=FF0000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayninfinity&layout=compact&theme=github_dark&hide_border=true&title_color=FF0000" width="49%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/80/75/5e/80755e98c41cfac501602aa1fc5a56b3.gif" width="400" alt="Itachi Closing Animation" />
-</p>
+## 🌱 Currently
 
-<p align="center">
-  <b>“Focus, strategy, and discipline are the keys to mastering any skill.”</b>
-</p>
+- 🔨 Building: A full-stack MERN application
+- 📖 Learning: REST APIs, authentication, and deployment
+- 🎯 Goal: Land my first dev internship or freelance client
+- 💡 Exploring: Startup ideas and product thinking
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://www.linkedin.com/in/zain-ul-abideen-429735231)
+[![Email](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:zaynbu269@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAYNINFINITY)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Focus, strategy, and discipline are the keys to mastering any skill."*
+
+<br/>
+
+<!-- A nod to the character that inspires the grind — patient, purposeful, always moving forward. -->
+<img src="https://i.pinimg.com/originals/80/75/5e/80755e98c41cfac50160aa1fc5a56b3.gif" width="280" alt="Itachi" title="Endure. Adapt. Prevail."/>
+
+<br/>
+<sub>⚡ Thanks for visiting — let's build something great.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
