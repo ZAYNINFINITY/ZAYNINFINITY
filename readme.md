@@ -116,8 +116,8 @@
 
 <br/>
 
-<!-- A nod to the character that inspires the grind — patient, purposeful, always moving forward. -->
-<img src="https://i.pinimg.com/originals/80/75/5e/80755e98c41cfac50160aa1fc5a56b3.gif" width="280" alt="Itachi" title="Endure. Adapt. Prevail."/>
+<!-- Your favorite anime moment -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2cThqcnd4aXhlNDZkeWJ0N3FzbHh0dWJiemE0dXp1ZnBqbXkyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ADSJHOoIvyjKM/giphy.gif" width="280" alt="Coding Moment"/>
 
 <br/>
 <sub>⚡ Thanks for visiting — let's build something great.</sub>
