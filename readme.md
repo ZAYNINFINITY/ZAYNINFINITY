@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abideen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abideen&fontSize=42&fontColor=fff&animation=twinkling&font=Poppins" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;CS+Student+%40+PAF-IAST+%F0%9F%8E%93;Building+Real-World+Applications+%F0%9F%94%A5;Always+Learning%2C+Always+Growing+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;CS+Student+%40PAF-IAST;Problem+Solver+%F0%9F%92%BB" alt="Typing animation"/>
 </a>
 
 </div>
