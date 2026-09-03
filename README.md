@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abideen&fontSize=42&fontColor=fff&animation=twinkling&font=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zain%20Ul%20Abideen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;CS+Student+%40PAF-IAST;Problem+Solver+%F0%9F%92%BB" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;CS+Student;Building+the+future" alt="Typing SVG" />
 </a>
 
 </div>
@@ -66,11 +66,11 @@
 
 | Project | Description | Tech | Status |
 |--------|-------------|------|--------|
-| 🚗 [Car Auction Management System](https://github.com/ZAYNINFINITY/CARAUCTION-MANAGEMENT-SYSTEM) | Full auction platform with bidding, listings & user management | Python | ✅ Complete |
-| 📊 [DSA Queue Visualizer](https://github.com/ZAYNINFINITY/DSA-PROJ-V2) | Interactive visual implementation of queue data structures | HTML/JS | ✅ Complete |
-| 🤝 [Collaborative Workspace](https://github.com/ZAYNINFINITY/collaborative-workspace) | Real-time team collaboration tool | JavaScript | 🔄 In Progress |
-| 💰 [Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker) | Personal finance manager with tracking & insights | JavaScript | ✅ Complete |
-| 🎮 [Hangman Game](https://github.com/ZAYNINFINITY/Hangman) | Classic word-guessing game built in C++ | C++ | ✅ Complete |
+| [Car Auction Management System](https://github.com/ZAYNINFINITY/CARAUCTION-MANAGEMENT-SYSTEM) | Full auction platform with bidding, listings & user management | Python | Complete |
+| [DSA Queue Visualizer](https://github.com/ZAYNINFINITY/DSA-PROJ-V2) | Interactive visual implementation of queue data structures | HTML/JS | Complete |
+| [Collaborative Workspace](https://github.com/ZAYNINFINITY/collaborative-workspace) | Real-time team collaboration tool | JavaScript | In Progress |
+| [Budget Tracker](https://github.com/ZAYNINFINITY/Budget-Tracker) | Personal finance manager with tracking & insights | JavaScript | Complete |
+| [Hangman Game](https://github.com/ZAYNINFINITY/Hangman) | Classic word-guessing game built in C++ | C++ | Complete |
 
 ---
 
@@ -91,10 +91,10 @@
 
 ##  Currently
 
-- 🔨 Building: A full-stack MERN application
-- 📖 Learning: REST APIs, authentication, and deployment
-- 🎯 Goal: Land my first dev internship or freelance client
-- 💡 Exploring: Startup ideas and product thinking
+- Building: A full-stack MERN application
+- Learning: REST APIs, authentication, and deployment
+- Goal: Land my first dev internship or freelance client
+- Exploring: Startup ideas and product thinking
 
 ---
 
@@ -117,10 +117,10 @@
 <br/>
 
 <!-- Your favorite anime moment -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2cThqcnd4aXhlNDZkeWJ0N3FzbHh0dWJiemE0dXp1ZnBqbXkyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ADSJHOoIvyjKM/giphy.gif" width="280" alt="Coding Moment"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGI2cThqcnd4aXhlNDZkeWJ0N3FzbHh0dWJiemE0dXp1ZnBqbXkyMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ADSJHOoIvyjKM/giphy.gif" width="280" alt="Coding Motivation"/>
 
 <br/>
-<sub>⚡ Thanks for visiting — let's build something great.</sub>
+<sub>Thanks for visiting — let's build something great.</sub>
 
 <br/><br/>
 
